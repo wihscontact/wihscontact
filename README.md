@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wihscontact
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning mechine learning
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...wihscontact@gmail.com
 
